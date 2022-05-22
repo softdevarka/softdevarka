@@ -13,7 +13,7 @@ A results-oriented Software Engineer with entry-level experience, specializing i
 * 🤝  I'm open to collaborating on Cool Web Projects
 
 <a href="https://www.twitter.com/softdevarka" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/softdevarka?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/softdevarka?logo=twitter&style=for-the-badge&color=22c55e&labelColor=1c1917"
 /></a>
 
 ### Skills
@@ -44,10 +44,10 @@ src="https://img.shields.io/twitter/follow/softdevarka?logo=twitter&style=for-th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/softdevarka"><img src="https://github-readme-stats.vercel.app/api?username=softdevarka&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="softdevarka's GitHub stats" /></a>
+<a href="http://www.github.com/softdevarka"><img src="https://github-readme-stats.vercel.app/api?username=softdevarka&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="softdevarka's GitHub stats" /></a>
 
-<a href="http://www.github.com/softdevarka"><img src="https://github-readme-streak-stats.herokuapp.com/?user=softdevarka&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/softdevarka"><img src="https://github-readme-streak-stats.herokuapp.com/?user=softdevarka&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/softdevarka"><img src="https://activity-graph.herokuapp.com/graph?username=softdevarka&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/softdevarka"><img src="https://activity-graph.herokuapp.com/graph?username=softdevarka&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/softdevarka" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=softdevarka&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/softdevarka" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=softdevarka&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
